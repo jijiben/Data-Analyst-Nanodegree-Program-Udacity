@@ -9,7 +9,6 @@ How to succeed on the program ?
 * Give us feedback throughout the program;
 
 ## P0: Analyze Chopstick Length (Optional)
-.
 ### Intro to research methods
 
 #### For a survey trust results:
