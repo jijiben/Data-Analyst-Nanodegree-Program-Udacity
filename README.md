@@ -14,7 +14,7 @@ How to succeed on the program ?
 #### For a survey trust results:
 * Good simple size
 * Representative sample
-* Sound methodology(;How tge survey was conducted)
+* Sound methodology(;How the survey was conducted)
 #### construct definition
 We are able to meassure a construct if we have an operational definition.
 ```
@@ -40,7 +40,7 @@ f(x) = y; X = independent/predictor variable and y = dependent variable / outcom
 
 ### Golden Arches Theory of conflict prevention, Thomas Friedman
 ```
-No two countries with a McDonald's have eve gone to war since opening the McDonald's.
+No two countries with a McDonald's have ever gone to war since opening the McDonald's.
 ```
 #### Correlation does not imply causation
 ### causal inference
