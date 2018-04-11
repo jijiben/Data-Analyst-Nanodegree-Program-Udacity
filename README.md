@@ -56,3 +56,5 @@ show causation:
 * double blind : researchers dont know which treatment participants recieved 
 * Placebo: fake treatement
 * observatioanl studies / survey / experiments; best to proove causality
+### project Prep, Done
+
