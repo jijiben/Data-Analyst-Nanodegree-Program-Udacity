@@ -12,3 +12,12 @@ Quiz : Done
 * Including placebo control condition help us to identify the presence of lurking variables.
 Quiz : Done
 ## L2: Visulizing Data
+* Interval = bin = bucket:  group of data
+* bin size: the interval in which you're counting the frequency
+* Data https://docs.google.com/spreadsheets/d/1FhX_MCkqiXPVArIZi5pO9xPpftHzmqeuY4KbS5qQMv8/edit#gid=0 ,Histogram http://www.shodor.org/interactivate/activities/Histogram/
+* Histogram : possibility to choose any bin size
+              The variables on the x-axis is numerical and quantitive.
+* Bar graph : distinct category
+              The variables on the x-axis is categorical and qualitative
+* Normal distribution has one peak called the mode.
+* Positively skewed disctribution : Most values are on the left side than on the right .
