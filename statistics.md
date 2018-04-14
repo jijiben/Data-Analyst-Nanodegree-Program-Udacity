@@ -21,3 +21,8 @@ Quiz : Done
               The variables on the x-axis is categorical and qualitative
 * Normal distribution has one peak called the mode.
 * Positively skewed disctribution : Most values are on the left side than on the right .
+## PS 2a: visualizing Data
+* The Σ symbol means the total sum. It is the Greek letter capital sigma. f stands for frequency (count), p stands for proportion.
+* With frequency tables, we have exact counts, so we can always create the histogram.But not the opposite way around.
+Quiz : Done
+## PS 2b: Additional Practice(Optional)
