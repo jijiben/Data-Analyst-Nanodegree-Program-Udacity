@@ -26,3 +26,4 @@ Quiz : Done
 * With frequency tables, we have exact counts, so we can always create the histogram.But not the opposite way around.
 Quiz : Done
 ## PS 2b: Additional Practice(Optional)
+Quiz : Done
