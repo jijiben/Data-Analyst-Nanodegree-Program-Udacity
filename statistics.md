@@ -34,7 +34,7 @@ Median: Value in the middle
 Average: statisctic that rest at a specific spot in the middle of the distribution.
 Uniform distribution have no mode
 multi-modal distribution is when there are two or more distinct clear trends.
-###Note:
+### Note:
 * The data doesn't need to be numeric to find a mode: we can also compute the mode for categorical data as well! 
 * The sample mean formula is: x̄ = ( Σ xi ) / n
 * The population mean formula is: μ = (Σ * X)/ N where: Σ means “the sum of.” X = all the individual items in the group. N = the number of items in the group
@@ -51,5 +51,11 @@ multi-modal distribution is when there are two or more distinct clear trends.
 Median value in symbol for any dataset with n values
 If n even: [(n/2) + (n/2 +1)]/2
 else : (n+1)/2
-
-
+## PS 3a: Central Tendency
+* median is not affected by extrem outliers
+Quiz: Done
+## PS 3b: Central Tendency(additional practice, optional)
+* There is no mode; no most frequency value since each value apears exactly once
+* Median is the measure of center that say is better for skewed distributions
+Quiz: Done
+## L4: Variability
