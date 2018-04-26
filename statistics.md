@@ -11,7 +11,7 @@ Quiz : Done
 * Lurking variables can result in a correlation between two variables that are not causally related. 
 * Including placebo control condition help us to identify the presence of lurking variables.
 Quiz : Done
-## L2: Visulizing Data
+## L2: Visualizing Data
 * Interval = bin = bucket:  group of data
 * bin size: the interval in which you're counting the frequency
 * Data https://docs.google.com/spreadsheets/d/1FhX_MCkqiXPVArIZi5pO9xPpftHzmqeuY4KbS5qQMv8/edit#gid=0 ,Histogram http://www.shodor.org/interactivate/activities/Histogram/
@@ -27,3 +27,23 @@ Quiz : Done
 Quiz : Done
 ## PS 2b: Additional Practice(Optional)
 Quiz : Done
+## Google Spreadsheet Tutorial
+## L3: Central Tendency
+Mode: The value at which frequency is highest
+Median: Value in the middle
+Average: statisctic that rest at a specific spot in the middle of the distribution.
+Uniform distribution have no mode
+multi-modal distribution is when there are two or more distinct clear trends.
+###Note:
+* The data doesn't need to be numeric to find a mode: we can also compute the mode for categorical data as well! 
+* The sample mean formula is: x̄ = ( Σ xi ) / n
+* The population mean formula is: μ = (Σ * X)/ N where: Σ means “the sum of.” X = all the individual items in the group. N = the number of items in the group
+* "The mean will change if we add an extreme value to the dataset." is not necessarily a property of the mean, more a behavioral tendency.
+* Many samples from the same population will have similar means.
+* The average can be misleading when we have outliers(; values that are unexpectedly different from the other observed values.
+* Put data in order to make the median a useful statistic.
+* When we cant have two median (n is even) then the median is the value between those two medians.
+* outlier affect median and mean.this tendency of meadian is called Robust;strong and sturdy
+* Measures of center : Mean, Median(best measure of central tendency when dealing with highly skewed distribution) , Mode
+
+
