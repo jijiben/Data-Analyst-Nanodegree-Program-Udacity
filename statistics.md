@@ -45,5 +45,11 @@ multi-modal distribution is when there are two or more distinct clear trends.
 * When we cant have two median (n is even) then the median is the value between those two medians.
 * outlier affect median and mean.this tendency of meadian is called Robust;strong and sturdy
 * Measures of center : Mean, Median(best measure of central tendency when dealing with highly skewed distribution) , Mode
+* In a positively skewed distribution:  mode < median < mean
+* Symmetrical distribution(normal distribution of data) : mode = median = mean
+### Median:
+Median value in symbol for any dataset with n values
+If n even: [(n/2) + (n/2 +1)]/2
+else : (n+1)/2
 
 
